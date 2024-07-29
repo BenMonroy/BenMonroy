@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a senior at the University of Central Florida 
 Here are a few highlights of my work:
 
 - **[Software Assurance Navigator (SWAN)](#)**: A highly interactive dashboard for managing Risk Management Framework (RMF) processes, featuring dynamic checklists and wiki links. This is my senior design project and will be a private repository until December 2024.
-- **[Carry Companion](#)**: A Flutter application with a custom mapand da ta visualization showing concealed carry laws in the United States.
+- **[Carry Companion](#)**: A Flutter application with a custom map and data visualization showing concealed carry laws in the United States.
 
 ## Education
 
