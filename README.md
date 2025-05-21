@@ -19,7 +19,6 @@ Here are a few highlights of my work:
 ## Education
 
 - **Bachelor of Computer Science** - University of Central Florida (Expected Fall 2024)
-- **Master of Science in Computer Science** - University of Central Florida (Planned)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
