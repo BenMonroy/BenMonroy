@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ben Monroy
+## Hi, I'm Ben Monroy
 
 Welcome to my GitHub profile! I'm a senior at the University of Central Florida (UCF), pursuing a Bachelor of Computer Science with plans to continue with a Master of Science in Computer Science. I have a diverse set of programming skills and enjoy working on various projects.
 
